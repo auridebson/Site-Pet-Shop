@@ -3,10 +3,11 @@
 }
 
 body {
-    background-color: rgb(167, 163, 163);
+    background-color: rgb(171, 34, 34);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
-
+    color: white;
+    text-shadow: 1px 1px 1px black;
 }
 
 input {
